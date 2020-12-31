@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Git Deploy <br><hr>";
+echo "<h2>Git Deploy</h2><hr>";
 
 echo "<pre>";
 $last_line = system('git status', $retval);
