@@ -1,5 +1,6 @@
 <?php
 
+echo "Hello";
 
 echo "<h2>Git Deploy</h2><hr>";
 
